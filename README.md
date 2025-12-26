@@ -1,6 +1,7 @@
 # Airbnb en la Ciudad de México — Análisis Exploratorio y Descriptivo (EDA)
 
 **Objetivo:** realizar un EDA riguroso del dataset oficial de Airbnb para CDMX y, a partir de él, construir un análisis descriptivo que caracterice el mercado desde tres ejes: **precio**, **espacio/geografía** y **comportamiento del anfitrión**.  
+
 Este proyecto **NO** busca optimizar un modelo predictivo para producción; incluye un **modelo explicativo** como herramienta de síntesis/validación interna.
 
 ---
