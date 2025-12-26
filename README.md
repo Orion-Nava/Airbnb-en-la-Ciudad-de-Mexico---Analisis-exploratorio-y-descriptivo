@@ -117,7 +117,7 @@
 ## Reproducibilidad
 
 ### Requisitos
-- Python 3.10+ (recomendado)
+- Python
 - Librerías principales:
   - `pandas`, `numpy`, `matplotlib`, `seaborn`
   - `geopandas`, `shapely`
