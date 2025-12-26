@@ -24,8 +24,6 @@ Este proyecto **NO** busca optimizar un modelo predictivo para producción; incl
 - **Fuente:** dataset oficial de Airbnb (listings).
 - **Variables clave:** `price`, `room_type`, `accommodates`, `bathrooms`, `bedrooms`, `beds`, `host_since`, métricas del anfitrión, ubicación (lat/long) y **alcaldía** (por *spatial join* con shapefile).
 
-> Nota: por la asimetría del precio y su sensibilidad a valores extremos, se usan medidas robustas (mediana/IQR) cuando aplica y se analiza explícitamente el rol de los outliers.
-
 ---
 
 ## Metodología (resumen técnico)
